@@ -5,6 +5,7 @@ Project related to basic use of raspberry pi for led related operations
 
 ### Raspberry Pi hardware setup:
 One Led: https://www.youtube.com/watch?v=w_z0BUkzbIg&t=211s&ab_channel=ConfidingRPi
+
 Three Led: https://drive.google.com/drive/folders/1KjqxCiOBjH-O0Tse9OHjhll5uBJFT8C4?usp=sharing
 
 ### Basic operations:
